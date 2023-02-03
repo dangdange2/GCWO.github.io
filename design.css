@@ -4,12 +4,12 @@
     font-weight: normal;
     font-style: normal;
 }
-.Score{
+.head{
     font-family: 'S-CoreDream-3Light', sans-serif;
-}
-div{
     text-align: center;
+    color: #00b4ff
 }
-.center{
+.text{
+    font-family: 'S-CoreDream-3Light', sans-serif;
     text-align: center;
 }
