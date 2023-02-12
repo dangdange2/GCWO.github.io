@@ -1,0 +1,26 @@
+html {
+    scroll-behavior: smooth;
+}
+@font-face {
+    font-family: 'S-CoreDream-3Light';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_six@1.2/S-CoreDream-3Light.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+.head{
+    font-family: 'S-CoreDream-3Light', sans-serif;
+    text-align: center;
+    color: #00b4ff
+}
+.text{
+    font-family: 'S-CoreDream-3Light', sans-serif;
+    text-align: center;
+}
+a:hover {
+    color: blue;
+}
+.menubar{
+    text-decoration-line: none; 
+    font-size: 85%;
+    scroll-behavior: smooth;
+}
